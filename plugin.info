@@ -1,0 +1,10 @@
+[Plugin]
+Name = status
+Version = 1.0.0
+license = MIT
+URL = https://github.com/iamjake648/jasper-dictionary
+Description = Retrieves the definition of a word
+
+[Author]
+Name = 
+URL = 
